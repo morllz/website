@@ -1,15 +1,80 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audio on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/audio/</link><description>Recent content in Audio on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Sun, 17 Mar 2019 08:00:28 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>Space Tourist in Halle</title><link>https://eigenbaukombinat.de/space-tourist-in-halle/</link><pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/space-tourist-in-halle/</guid><description>Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch zum Junghackertag am 26.01.2019 durch Stefan Majewsky im Eigenbaukombinat.
-Space Tourist
-Stefan ist ab jetzt &amp;ldquo;Space Tourist&amp;rdquo; und hat eine eigentlich einfache Idee geboren. Ein Tourist für Hackerspaces. Er ist ohnehin im Radioumfeld aktiv, hat Technik dabei und neben dem regelmäßigem Erfahrungen im C3D2 Pentaradio hatte er einfach Lust neues zu entdecken. So wurde das Eingenbaukombinat der aller erste Anlaufpunkt für Inspiration und Informationsaustausch in seinem neuen Podcast.</description></item><item><title>Weniger Echo dank Eierpappen</title><link>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</link><pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</guid><description>Jetzt bitte nicht lachen - ich hatte ein Echo im Schlafzimmer und das sollte weg!
-Wie ich das geschafft habe?! Mit Eierpappen. Hier das How-To zum Nachbauen:
-Man braucht:
-Eierpappen
-Cuttermesser
-Hammer
-Nägel
-Heißklebepistole
-(Farbe nach Bedarf)
-(Wasserwaage für die Monks unter euch)
-So gehts: Weil ich die Eierpappen genau ineinander stecken wollte, habe ich sie zurecht geschnitten, sodass sie immer 5x5 &amp;ldquo;Nasen&amp;rdquo; hatten.</description></item><item><title>Audiotreffen: Mini-Audio-Projekte</title><link>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</link><pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</guid><description>Am 27. Februar findet das 2. Audiotreffen im Eigenbaukombinat statt.
-Henning wird dieses Mal eine Auswahl seiner zahlreichen Projekte vorstellen:
-* ein funktionales kooperatives Live-MIDI-Programmiersystem * einen Software-Synthesizer auf Basis von LLVM, einschließlich einem Voder (also etwa Sprachsynthese) * ein Ton-Memory-Spiel * ein Programm, das aus MIDI-Dateien Lochstreifen für Spieluhren erzeugt * ein Programm, das aus OctaMED-Musikstücken Videos macht * ein Programm, welches Regler anzeigt, die man auf MIDI-Controller legen kann Es besteht auch die Möglichkeit, sich ein Bild von den Fortschritten im Audiobereich machen, denn seit dem letzten Treffen hat sich einiges verändert.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Audio on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/audio/</link><description>Recent content in Audio on Eigenbau​kombinat</description><generator>Hugo</generator><language>de</language><lastBuildDate>Sun, 17 Mar 2019 08:00:28 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/audio/index.xml" rel="self" type="application/rss+xml"/><item><title>Space Tourist in Halle</title><link>https://eigenbaukombinat.de/space-tourist-in-halle/</link><pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate><guid>https://eigenbaukombinat.de/space-tourist-in-halle/</guid><description>&lt;p>Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch zum Junghackertag am 26.01.2019 durch Stefan Majewsky im Eigenbaukombinat.&lt;/p>
+&lt;!-- more -->
+&lt;p>
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/03/cover-st-1024x1024.png');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/03/cover-st-1024x1024.png" alt="/wp-content/uploads/2019/03/cover-st-1024x1024.png"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/03/cover-st-1024x1024.png" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+Space Tourist&lt;/p>
+&lt;p>Stefan ist ab jetzt &amp;ldquo;Space Tourist&amp;rdquo; und hat eine eigentlich einfache Idee geboren. Ein Tourist für Hackerspaces. Er ist ohnehin im Radioumfeld aktiv, hat Technik dabei und neben dem regelmäßigem Erfahrungen im C3D2 Pentaradio hatte er einfach Lust neues zu entdecken. So wurde das Eingenbaukombinat der aller erste Anlaufpunkt für Inspiration und Informationsaustausch in seinem neuen Podcast. Stefan hat einfach zu unserem Junghackertag das digitale Ohr hingehalten und Mentoren sowie Teilnehmer interviewt. Zu hören ist der Podcast #1 Eigenbaukombinat Halle unter &lt;a href="https://xyrillian.de/noises/st/001-eigenbaukombinat-halle/">https://xyrillian.de/noises/st/001-eigenbaukombinat-halle/&lt;/a>&lt;/p></description></item><item><title>Weniger Echo dank Eierpappen</title><link>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</link><pubDate>Wed, 30 Jan 2019 20:07:43 +0000</pubDate><guid>https://eigenbaukombinat.de/weniger-echo-dank-eierpappen/</guid><description>&lt;p>Jetzt bitte nicht lachen - ich hatte ein Echo im Schlafzimmer und das sollte weg!&lt;/p>
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/01/IMG_20190120_103735.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_103735.jpg" alt="/wp-content/uploads/2019/01/IMG_20190120_103735.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/01/IMG_20190120_103735.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;p>Wie ich das geschafft habe?! Mit Eierpappen. Hier das How-To zum Nachbauen:&lt;/p>
+&lt;!-- more -->
+&lt;p>Man braucht:&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Eierpappen&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Cuttermesser&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Hammer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Nägel&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Heißklebepistole&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(Farbe nach Bedarf)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>(Wasserwaage für die Monks unter euch)&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>So gehts:
+Weil ich die Eierpappen genau ineinander stecken wollte, habe ich sie zurecht geschnitten, sodass sie immer 5x5 &amp;ldquo;Nasen&amp;rdquo; hatten.&lt;/p></description></item><item><title>Audiotreffen: Mini-Audio-Projekte</title><link>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</link><pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate><guid>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</guid><description>&lt;p>Am 27. Februar findet das 2. Audiotreffen im Eigenbaukombinat statt.&lt;/p>
+&lt;p>Henning wird dieses Mal eine Auswahl seiner zahlreichen Projekte vorstellen:&lt;/p>
+&lt;pre>&lt;code> * ein funktionales kooperatives Live-MIDI-Programmiersystem
+ * einen Software-Synthesizer auf Basis von LLVM, einschließlich einem Voder (also etwa Sprachsynthese)
+ * ein Ton-Memory-Spiel
+ * ein Programm, das aus MIDI-Dateien Lochstreifen für Spieluhren erzeugt
+ * ein Programm, das aus OctaMED-Musikstücken Videos macht
+ * ein Programm, welches Regler anzeigt, die man auf MIDI-Controller legen kann
+&lt;/code>&lt;/pre>
+&lt;!-- more -->
+&lt;p>Es besteht auch die Möglichkeit, sich ein Bild von den Fortschritten im Audiobereich machen, denn seit dem letzten Treffen hat sich einiges verändert.&lt;/p></description></item></channel></rss>

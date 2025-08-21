@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>*@Ebk on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/@ebk/</link><description>Recent content in *@Ebk on Eigenbau​kombinat</description><generator>Hugo</generator><language>de</language><lastBuildDate>Sun, 20 Oct 2019 11:54:14 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/@ebk/index.xml" rel="self" type="application/rss+xml"/><item><title>Schnappschüsse (7)</title><link>https://eigenbaukombinat.de/schnappschuesse-7/</link><pubDate>Sun, 20 Oct 2019 11:54:14 +0000</pubDate><guid>https://eigenbaukombinat.de/schnappschuesse-7/</guid><description>&lt;p>Ein facettierter Ring aus dem 3D-Drucker, ein 3D-Scanner und eine gedrechselte Schale.&lt;/p>
+&lt;!-- more -->
+&lt;h2 id="ein-facettierter-ring">Ein facettierter Ring&lt;/h2>
+&lt;p>Nachdem Florian zuletzt einen schönen &lt;a href="https://eigenbaukombinat.de/holzverbindung/">Artikel über das Thema Holzverbindung veröffentlicht&lt;/a> hat, fand ich diesen wunderschönen &lt;a href="https://www.thingiverse.com/thing:996888">Ring als Vorlage bei Thingiverse&lt;/a>, leider nur in einer Größe. Daher habe ich ihn in Cura skaliert auf 21, 22, 23, 25, und 27mm Außenmaß gedruckt. Verwendet wurde ein rotes, halbtransparentes PET-G-Material bei 240°C.&lt;/p>
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/10/IMG_5505.jpeg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5505.jpeg" alt="/wp-content/uploads/2019/10/IMG_5505.jpeg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5505.jpeg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/10/IMG_5500-1.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5500-1.jpg" alt="/wp-content/uploads/2019/10/IMG_5500-1.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5500-1.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;h2 id="3d-scanner">3D-Scanner&lt;/h2>
+&lt;p>Hier ein Bausatz vom &lt;a href="https://www.openscan.eu/">OpenScan-3D-Scanner&lt;/a>. Thomas hat viel Spaß beim Zusammenbau. Sobald wir ihn in Benutzung sehen, gibt es hier ein paar mehr Infos. Das verwendete Material ist 6mm dickes Pappelsperrholz, das wir auf unserer CNC-Fräse zugeschnitten haben.&lt;/p></description></item><item><title>Schnappschüsse (6)</title><link>https://eigenbaukombinat.de/schnappschuesse-6/</link><pubDate>Fri, 18 Oct 2019 10:00:55 +0000</pubDate><guid>https://eigenbaukombinat.de/schnappschuesse-6/</guid><description>&lt;p>Wieder ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Siebdruck von Rastergrafiken, eine gedrechselte Dose, Reparaturversuch einer Logitech-Maus und Maschinenwartung.&lt;/p>
+&lt;!-- more -->
+&lt;h2 id="siebdruck-von-rastergrafiken">Siebdruck von Rastergrafiken&lt;/h2>
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/10/rastersiebdruck.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/10/rastersiebdruck.jpg" alt="/wp-content/uploads/2019/10/rastersiebdruck.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/10/rastersiebdruck.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;p>Nilo hat ausprobiert, wie der Siebdruck von Rastergrafiken geht. Beim letzten Versuch hat das Sieb die Reinigung nicht überlebt, weil das Verhältnis Raster-zu-Siebraster wohl nicht passte. Für feine 80T-Siebe werden Rasterungen bis maximal 44lpi empfohlen. Hier das Ergebnis eines neuen Versuchs.&lt;/p></description></item><item><title>Schnappschüsse (5)</title><link>https://eigenbaukombinat.de/schnappschuesse-5/</link><pubDate>Tue, 15 Oct 2019 15:01:13 +0000</pubDate><guid>https://eigenbaukombinat.de/schnappschuesse-5/</guid><description>&lt;p>Ein paar kurze Eindrücke aus dem Eigenbaukombinat, die es wohl nicht zeitnah in einen eigenen Beitrag schaffen. Heute dabei: Nachwuchs im Keramikbereich, reichlich Tische, Druckaufbau und eine Exzenterschleiferreparatur.&lt;/p>
+&lt;!-- more -->
+&lt;h2 id="geheimer-nachwuchs-im-keramikbereich">Geheimer Nachwuchs im Keramikbereich&lt;/h2>
+&lt;p>Ein Brennofen, es ist ein Brennofen!!! (Mist, jetzt hab ich es doch verraten.)&lt;/p>
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/10/IMG_5008.jpeg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5008.jpeg" alt="/wp-content/uploads/2019/10/IMG_5008.jpeg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/10/IMG_5008.jpeg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;h2 id="spende-von-der-gisa">Spende von der GISA&lt;/h2>
+&lt;p>Wir haben von der GISA insgesamt 20 Tische gespendet bekommen. Dadurch können wir unsere neuen Räume auch voll ausstatten. Danke dafür!&lt;/p></description></item><item><title>FLTI* Arduino Workshop</title><link>https://eigenbaukombinat.de/flti-arduino-workshop/</link><pubDate>Tue, 04 Jun 2019 10:59:21 +0000</pubDate><guid>https://eigenbaukombinat.de/flti-arduino-workshop/</guid><description>&lt;p>Am Samstag, dem 15.06.2019 findet von 13:00 Uhr bis 17:00 Uhr im Eigenbaukombinat ein Arduino Workshop, durchgeführt von den Codegirls, statt. Wenn ihr Lust habt einen Einblick in die Welt der Elektronik, Arduino Plattform und Programmierung zu bekommen seid ihr hier richtig! Neben dem Erlernen der Grundlagen könnt ihr auch viel selbst ausprobieren und wir werden gemeinsam Ideen für euer erstes Projekt ausarbeiten und auch umsetzen.&lt;/p>
+&lt;!-- more -->
+&lt;p>Der Workshop findet im Rahmen des FEMINISMEN Festivals statt und wird organisiert durch den Feministischen Lesekreis Halle. Da der IT-Bereich meist männlich dominiert ist, richtet sich dieser Workshop speziell an FLTI* Personen.&lt;/p></description></item><item><title>Space Tourist in Halle</title><link>https://eigenbaukombinat.de/space-tourist-in-halle/</link><pubDate>Sun, 17 Mar 2019 08:00:28 +0000</pubDate><guid>https://eigenbaukombinat.de/space-tourist-in-halle/</guid><description>&lt;p>Eine Reise durch die deutsche Hackerspace-Landschaft verschaffte uns ein Besuch zum Junghackertag am 26.01.2019 durch Stefan Majewsky im Eigenbaukombinat.&lt;/p>
+&lt;!-- more -->
+&lt;p>
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/03/cover-st-1024x1024.png');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/03/cover-st-1024x1024.png" alt="/wp-content/uploads/2019/03/cover-st-1024x1024.png"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/03/cover-st-1024x1024.png" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+Space Tourist&lt;/p>
+&lt;p>Stefan ist ab jetzt &amp;ldquo;Space Tourist&amp;rdquo; und hat eine eigentlich einfache Idee geboren. Ein Tourist für Hackerspaces. Er ist ohnehin im Radioumfeld aktiv, hat Technik dabei und neben dem regelmäßigem Erfahrungen im C3D2 Pentaradio hatte er einfach Lust neues zu entdecken. So wurde das Eingenbaukombinat der aller erste Anlaufpunkt für Inspiration und Informationsaustausch in seinem neuen Podcast. Stefan hat einfach zu unserem Junghackertag das digitale Ohr hingehalten und Mentoren sowie Teilnehmer interviewt. Zu hören ist der Podcast #1 Eigenbaukombinat Halle unter &lt;a href="https://xyrillian.de/noises/st/001-eigenbaukombinat-halle/">https://xyrillian.de/noises/st/001-eigenbaukombinat-halle/&lt;/a>&lt;/p></description></item><item><title>Holzaktiventag im Februar</title><link>https://eigenbaukombinat.de/holzaktiventag-im-februar/</link><pubDate>Thu, 01 Feb 2018 10:50:08 +0000</pubDate><guid>https://eigenbaukombinat.de/holzaktiventag-im-februar/</guid><description>&lt;p>Liebe Holzfreunde und die, die es werden wollen,&lt;/p>
+&lt;p>am 14.02.2018, von 19 bis ca. 21 Uhr ist wieder unserer Holzaktiventag.&lt;/p>
+&lt;p>Ihr habt Fragen, wie ihr euer Projekt am Besten umsetzen könnt oder welche Maschinen ihr dafür braucht?&lt;!-- more -->
+Ihr wisst noch nicht, wer eure Ansprechpartner im Holzbereich sind?
+Ihr seid noch unsicher bei der Bedienung einer Maschine?&lt;/p>
+&lt;p>Dann seid ihr beim Holzaktiventag genau richtig.&lt;/p>
+&lt;p>Es werden sachkundige Personen anwesend sein, die ihr um Rat und nach Tipps fragen könnt, die ggf. Einweisungen geben und euch auch sonst rund um das Thema Holzarbeiten unterstützen können.&lt;/p></description></item><item><title>*@ebk: Baumtafeln</title><link>https://eigenbaukombinat.de/ebk-baumtafeln/</link><pubDate>Wed, 13 Sep 2017 20:39:38 +0000</pubDate><guid>https://eigenbaukombinat.de/ebk-baumtafeln/</guid><description>&lt;p>Gestern wurden bei uns an der CNC-Fräse Tafeln zur Beschriftung von Obstbäumen hergestellt.&lt;/p>
+&lt;!-- more -->
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+ 
+ &lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+ &lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8002.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8002.jpg" alt="/wp-content/uploads/2017/09/MG_8002.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8002.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+ &lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8007.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8007.jpg" alt="/wp-content/uploads/2017/09/MG_8007.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8007.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8011.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8011.jpg" alt="/wp-content/uploads/2017/09/MG_8011.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8011.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8016.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8016.jpg" alt="/wp-content/uploads/2017/09/MG_8016.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8016.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8018.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8018.jpg" alt="/wp-content/uploads/2017/09/MG_8018.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8018.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2017/09/MG_8019.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8019.jpg" alt="/wp-content/uploads/2017/09/MG_8019.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2017/09/MG_8019.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div></description></item></channel></rss>

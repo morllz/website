@@ -1,49 +1,375 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wissen on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/wissen/</link><description>Recent content in Wissen on Eigenbau​kombinat</description><generator>Hugo -- gohugo.io</generator><managingEditor>kontakt@eigenbaukombinat.de (EBK Impressum)</managingEditor><webMaster>kontakt@eigenbaukombinat.de (EBK Impressum)</webMaster><lastBuildDate>Tue, 29 Oct 2024 15:30:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/wissen/index.xml" rel="self" type="application/rss+xml"/><item><title>Blenderkurs 2024</title><link>https://eigenbaukombinat.de/kurs-blender-2024/</link><pubDate>Tue, 29 Oct 2024 15:30:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/kurs-blender-2024/</guid><description>Hallo Ihr Lieben,
-auf vielfachen Wunsch werde ich bald wieder einen Blender-Kurs anbieten!
-Was ist Blender? Blender ist eine plattformunabhängige 3D-Grafiksoftware, mit der Sie Objekte modellieren, texturieren und animieren können. Diese Kreationen lassen sich in Grafiken, Animationen und Softwareprojekten einsetzen.
-Mehr infos unter: https://de.wikipedia.org/wiki/Blender_(Software)
-Download: https://www.blender.org/
-Für wen ist der Kurs? Für alle, die komplexe Formen für den 3D-Druck erstellen möchten Für Spielentwickler Für 3D-Künstler und Designer Für Einsteiger, die in die Welt der 3D-Grafik eintauchen wollen Der Kurs steht auch Nicht-Mitgliedern des Eigenbaukombinats offen.</description></item><item><title>Jugend hackt in Halle geht in die 5. Runde</title><link>https://eigenbaukombinat.de/jugend-hackt-halle-2023-anmeldung/</link><pubDate>Mon, 09 Oct 2023 08:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/jugend-hackt-halle-2023-anmeldung/</guid><description>Jugend hackt Halle 2023 Für Eilige: Anmeldung zu Jugend hackt Halle 2023
-Jugend hackt in Halle - 2019 CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck
-Seit 2013 veranstalten die Open Knowledge Foundation Deutschland und mediale pfade „Jugend hackt“, ein inzwischen erfolgreich etablierter Hackathon für Jugendliche von 12 bis 18 Jahren. Seit der Gründung wächst Jugend hackt stetig und findet mittlerweile in zahlreichen Städten in Deutschland, Österreich und der Schweiz statt.</description></item><item><title>Blick über den Tellerrand (50)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-50/</link><pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-50/</guid><description>Der Tellerrand wird 50, juchu! Heute mit:
-einer Nachttischlampe aus Holz + Epoxidharz, der Restauration eines alten Hammers, und einem kleinen Nähprojekt für Zwischendurch.</description></item><item><title>Blick über den Tellerrand (49)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-49/</link><pubDate>Fri, 25 Oct 2019 15:47:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-49/</guid><description>Heute im Tellerrand: Ornithopter vs. Raubvogel (VIDEO), Metallkappsäge mit Trennschleifer selbst gebaut (VIDEO), Entstehung eines Tiny House auf einem Anhänger.
-Ein selbstgebauter Vogel kreist und zieht die Raubvögel an selbstgebaute Kappsäge aus einem Trennschleifer Dokumentation vom SWR: Wie ein Tiny House gebaut wird</description></item><item><title>HP ChromeBook G4 mit Linux versehen</title><link>https://eigenbaukombinat.de/hp-chromebook-g4-mit-linux-versehen/</link><pubDate>Thu, 24 Oct 2019 16:08:19 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/hp-chromebook-g4-mit-linux-versehen/</guid><description>Obwohl die ChromeBooks technisch und optisch schön sind, stört sich mancher am Google-Betriebssystem. Glücklicherweise gibt es GalliumOS, eine speziell angepasste Ubuntu-Version, die auf den Intel-basierten ChromeBooks läuft.
-Im Unterschied zu einem normalen Ubuntu 16.04 oder 18.04 sind hier die speziellen Treiber schon mit drin, damit WLAN, Webcam und vor allem Videobeschleunigung ruckelfrei funktionieren. So lässt es sich dann angenehm arbeiten, inklusiver sehr langer Akkulaufzeit!
-Der Umbau auf Linux ist etwas anstrengend, aber in diesem Video hier sehr ausführlich und verständlich beschrieben.</description></item><item><title>Ringmanufaktur</title><link>https://eigenbaukombinat.de/ringmanufaktur/</link><pubDate>Mon, 21 Oct 2019 10:53:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/ringmanufaktur/</guid><description>Da Ringe aus dem 3D-Drucker sich großer Beliebtheit erfreuen, möchte ich anstatt nur nachzudrucken gern selber welche gestalten. Daher habe ich mit OpenSCAD einen parametrisierten, d.h. einstellbaren Ringgenerator, gebaut, den ich hier kurz vorstellen möchte.
-Durch die Parameter am Anfang der Datei kann einfach der gewünschte Ring eingestellt werden. Z.B. kann der Ringinnendurchmesser definiert werden (Einstellung hier: 18mm) und auch alle anderen Parameter, wie zum Beispiel:</description></item><item><title>Jugend hackt in Halle geht in die 3. Runde – Anmeldung ist geöffnet -</title><link>https://eigenbaukombinat.de/jugend-hackt-in-halle-geht-in-die-3-runde-anmeldung-ist-geoeffnet/</link><pubDate>Mon, 18 Mar 2019 08:00:00 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/jugend-hackt-in-halle-geht-in-die-3-runde-anmeldung-ist-geoeffnet/</guid><description>Was bisher geschah… Jugend hackt in Halle - 2018 CC BY 4.0 Lisa Krug (Jugend hackt)
-Seit 2013 veranstalten die Open Knowledge Foundation Deutschland und mediale pfade „Jugend hackt“, ein inzwischen erfolgreich etablierter Hackathon für Jugendliche von 12 bis 18 Jahren. Seit der Gründung wächst Jugend hackt stetig und findet mittlerweile in zahlreichen Städten in Deutschland, Österreich und der Schweiz statt.Das Programm dient der Förderung des Programmiernachwuchses und bietet jungen Talenten aus dem Bereich der Softwareentwicklung eine Plattform zum gemeinsamen Tüfteln und Entwickeln, Diskutieren und Vernetzen.</description></item><item><title>Workshop Schweißkurs</title><link>https://eigenbaukombinat.de/workshop-schweisskurs/</link><pubDate>Tue, 05 Feb 2019 19:42:51 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-schweisskurs/</guid><description>**TERMIN** 02. - 03.03.2019 **DAUER** 2x 4 Stunden **TEILNEHMER** max. 12 **KOSTEN** 40 Euro für Vereinsmitglieder, 80 Euro für Externe **KURSLEITER** Jens Köster **ORT** Eigenbaukombinat **INHALT** Am 02. - 03.03.2019 wird in 8h dem Kursteilnehmer in Theorie und Praxis alles nötige Wissen vermittelt, um danach selbständig seine Fertigkeit am Schweißgerät einzuschätzen und durch Übung zu optimieren.</description></item><item><title>Nachlese: Schweißkurs am 20/21.01.2019</title><link>https://eigenbaukombinat.de/nachlese-schweisskurs-am-20-21-01-2019/</link><pubDate>Mon, 04 Feb 2019 20:31:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/nachlese-schweisskurs-am-20-21-01-2019/</guid><description>Schweißtreibender Kurs! Zum Start ins neue Jahr, wurde am 19. und 20. Januar 2019 interessierten Teilnehmern das Schweißen nähergebracht. Jens, der Leitende des Kurses, hat an diesen Tagen seine Erfahrung und Wissen mit den 12 Anwesenden geteilt. Begonnen wurde mit einem Theorieteil, der die Grundlagen vermittelte. Dabei wurde das MIG-MAG und das Elektroden Schweißen erläutert. Das Schweißen ist im Allgemeinen ein Vorgang bei den Bauteilen unter einer hohen Temperatur und/oder Druck zusammengefügt werden.</description></item><item><title>Feinstaubwerte zum Jahreswechsel 2018/2019</title><link>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</link><pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</guid><description>Wie jedes Jahr ist der starke Anstieg der Feinstaubwerte besonders zum Jahreswechsel zu sehen. Der Feuerwerksqualm welcher größtenteils aus Feinstaub der Größe PM10 (Particulate Matter, Staubteilchen mit einem Durchmesser von ca. 10µm) besteht tritt hier besonders hervor. Um so kleiner die Feinstaubpartikel sind um so größer ist die Gesundheitsgefährdung insbesondere in Ballungszentren.
-Da auch das Eigenbaukombinat Halle e.V. wie auch viele Mitglieder einen Feinstaubsensor Nova PM Sensor SDS011 verwenden und sich am OpenData/Citizen Science-Projekt Luftdaten.</description></item><item><title>Privatsphäre im Internet - Verschlüsseln kann jeder</title><link>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder-2/</link><pubDate>Mon, 04 Jun 2018 14:44:02 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder-2/</guid><description>&amp;ldquo;Wollen wir in unserem Land wirklich eine Kommunikation zulassen, die wir im Extremfall nicht mitlesen können?&amp;rdquo; Zitat - David Cameron, 2015
-JA! Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und umständlich sein.
-Am 07. Juni ab 17:30 Uhr veranstalten wir deshalb in Kooperation mit der Landeszentrale für politische Bildung Sachsen-Anhalt eine Cryptoparty.Wir wollen mit euch im Workshop zusammen eine E-Mail-Verschlüsselung einrichten. Bring dein Notebook/Smartphone/Tablet mit oder sag uns Bescheid, wenn du ein Gerät von uns nutzen möchtest.</description></item><item><title>Audiotreffen: Mini-Audio-Projekte</title><link>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</link><pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</guid><description>Am 27. Februar findet das 2. Audiotreffen im Eigenbaukombinat statt.
-Henning wird dieses Mal eine Auswahl seiner zahlreichen Projekte vorstellen:
-* ein funktionales kooperatives Live-MIDI-Programmiersystem * einen Software-Synthesizer auf Basis von LLVM, einschließlich einem Voder (also etwa Sprachsynthese) * ein Ton-Memory-Spiel * ein Programm, das aus MIDI-Dateien Lochstreifen für Spieluhren erzeugt * ein Programm, das aus OctaMED-Musikstücken Videos macht * ein Programm, welches Regler anzeigt, die man auf MIDI-Controller legen kann Es besteht auch die Möglichkeit, sich ein Bild von den Fortschritten im Audiobereich machen, denn seit dem letzten Treffen hat sich einiges verändert.</description></item><item><title>Audiotreffen</title><link>https://eigenbaukombinat.de/audiotreffen/</link><pubDate>Fri, 23 Feb 2018 18:59:09 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/audiotreffen/</guid><description>**TERMIN** jeden Monat am vierten Dienstag, 19 Uhr **TEILNEHMER** unbeschränkt **KOSTEN** kostenlos **ANSPRECHPARTNER** David Rauh **ORT** Eigenbaukombinat **INHALT** Alles rund um Audio, Treffpunkt Tonstudio. **ANMELDUNG** nicht notwendig</description></item><item><title>Privatsphäre im Internet - Verschlüsseln kann jeder</title><link>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder/</link><pubDate>Fri, 03 Nov 2017 13:52:38 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder/</guid><description>&amp;ldquo;Wollen wir in unserem Land wirklich eine Kommunikation zulassen, die wir im Extremfall nicht mitlesen können?&amp;rdquo; Zitat - David Cameron, 2015
-JA! Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und umständlich sein.
-Am 23. November ab 18.30 Uhr veranstalten wir deshalb zum &amp;ldquo;TAG DER MEDIENKOMPETENZ Sachsen-Anhalt&amp;rdquo; eine Cryptoparty.Wir wollen mit euch im Workshop zusammen eine E-Mail-Verschlüsselung einrichten. Bring dein Notebook/Smartphone/Tablet mit oder sag uns Bescheid, wenn du ein Gerät von uns nutzen möchtest.</description></item><item><title>Grundkurs Bierbrauen am 14. Oktober</title><link>https://eigenbaukombinat.de/grundkurs-bierbrauen-am-14-oktober/</link><pubDate>Thu, 21 Sep 2017 17:28:55 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/grundkurs-bierbrauen-am-14-oktober/</guid><description>An 14. Oktober wird das Eigenbaukombinat wieder zum EIGENBRAUKOMBINAT. Im Hobbybrauer-Workshop erfahrt ihr, wie ihr Euch zu Hause mit ein wenig Ausrüstung und etwas Zeit euer eigenes Bier brauen könnt.
-Anmeldung: E-Mail an veranstaltungen@eigenbaukombinat.de
-Dabei geht es nicht nur um trockene Theorie - wir brauen an diesem Tag zusammen ein Bier und ihr erfahrt nebenbei Schritt für Schritt, wie ihr aus Gerstenmalz, Hopfen und Bierhefe euer eigenes, individuelles Bier brauen könnt.</description></item><item><title>science@eigenbaukombinat: Künstliche Intelligenz</title><link>https://eigenbaukombinat.de/scienceeigenbaukombinat-kuenstliche-intelligenz/</link><pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/scienceeigenbaukombinat-kuenstliche-intelligenz/</guid><description>In den Medien findet aktuell eine spannende Debatte um Künstliche Intelligenz statt. Verschiedene Akteure warnen vor Gefahren, andere dagegen würdigen die Chancen und Möglichkeiten, die sich durch die neuesten Entwicklungen ergeben. Sicher ist, maschinelle Intelligenz dringt in immer mehr Lebensbereiche ein und wird künftig stärker unser Leben bestimmen.
-Aber was ist Künstliche Intelligenz eigentlich?
-Am 27. September, 19:30 Uhr wird uns während der ersten Veranstaltung der Reihe science@eigenbaukombinat genau diese Frage beschäftigen .</description></item><item><title>Passworthashes generieren mit Hashcat</title><link>https://eigenbaukombinat.de/passworthashes-generieren-mit-hashcat/</link><pubDate>Mon, 10 Jul 2017 14:55:07 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/passworthashes-generieren-mit-hashcat/</guid><description>Vorgeschichte: Anfang des Jahres haben wir im Rahmen unserer Techniknotaufnahme ein altes, teildefektes, Notebook eingemottet und durch ein gebrauchtes Businessgerät ersetzt.In dem Zuge wurde ein Ubuntu samt Verschlüsselung des Benutzerverzeichnisses, via ecryptfs, installiert. Natürlich gab es auch gleich einen Crashkurs in der richtigen Wahl eines sicheren und leicht merkbaren Passwortes (xkcd password strength ). Soweit alles wie immer.
-In der nachfolgenden Zeit wurde das Notebook jedoch, aufgrund eines längeren Auslandaufenthaltes, etwa drei Monate nicht benutzt.</description></item><item><title>WannaCry, Ransomware, Cryptotrojaner? – Wir klären auf!</title><link>https://eigenbaukombinat.de/wannacry-ransomware-cryptotrojaner-wir-klaeren-auf/</link><pubDate>Mon, 15 May 2017 17:36:50 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/wannacry-ransomware-cryptotrojaner-wir-klaeren-auf/</guid><description>TL;DR: Wir laden am kommenden Samstag, 20. Mai ab 18:00 Uhr zu einem öffentlichen Informationsabend zum Thema Malware ein.
-Aktuell ist die Ransomware »WannaCry« in aller Munde. Der Wurm verbreitet sich weltweit auf Systemen von Unternehmen, Institutionen und Privatpersonen. Auch wenn die Ausmaße der befallenen Systeme und die weitere Verbreitungsgeschwindigkeit noch nicht absehbar sind, ist jetzt schon ersichtlich, dass der aktuelle Vorfall sich in die Reihe der größten globalen IT-Sicherheitskatastrophen einreihen wird: Krankenhäuser müssen Patienten abweisen, bei Autoherstellern stehen die Bänder still, die Anzeigen in Zügen und auf Bahnhöfen sind leer.</description></item><item><title>Spieleabend am 5. Mai: Videospiele, Schach und Go</title><link>https://eigenbaukombinat.de/spieleabend-am-5-mai-videospiele-schach-und-go/</link><pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/spieleabend-am-5-mai-videospiele-schach-und-go/</guid><description>Der Retro-Spieleabend wird ab Mai zum Spieleabend und findet ab jetzt immer am 1. Freitag im Monat um 20 Uhr statt. Es können weiterhin alte und neue Video-, Computer und Brettspiele mitgebracht und gespielt werden. Die Namensänderung bedeutet nicht, dass es in Zukunft nicht mehr um alte Spiele gehen wird. Im Gegenteil: Mit Schach und Go kommen Spiele hinzu die ca. 1000 bzw. 2000 Jahre alt sind. Wir werden sehen, ob diese beim Spieleabend neben den, dagegen fast noch neuen, 8-bit-Konsolen bestehen können.</description></item><item><title>Videos vom 33C3 gemeinsam anschauen</title><link>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</link><pubDate>Fri, 20 Jan 2017 23:37:56 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</guid><description>Im EBK schauen wir uns die kommenden Samstage jeweils abends um 20 Uhr einige Videos vom 33C3 an.
-Der 33C3 ist der 33. Kongress der jährlich stattfindenden Konferenz des Chaos Computer Club zu den Themen Technologie, Gesellschaft und Zukunft. Dabei gibt es Vorträge, Workshops, Diskussionen und weitere Veranstaltungen zu IT, Hacking und künftigen Entwicklungen.
-Wir beginnen am Samstag den 21.1.2017 mit dem Vortrag &amp;ldquo;An Elevator to the Moon (and back)&amp;rdquo; von Markus Landgraf.</description></item><item><title>Swap:Netzkultur 2016 Cryptotag: Datenschutz und Internetsicherheit</title><link>https://eigenbaukombinat.de/swapnetzkultur-2016/</link><pubDate>Thu, 06 Oct 2016 19:04:54 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/swapnetzkultur-2016/</guid><description>**Im Rahmen des swap:Netzkultur 2016 widmen Terminal.21 und das Eigenbaukombinat den Samstag der Verschlüsselung. ** In einem Vortrag und einem Workshop werden die Grundlagen vermittelt.**Vortrag: 5. November 11.00 – 12.30 Uhr ** Internetgrundlagen und Datenschutz
-Wieso weiß [facebook/amazon/google/twitter/&amp;gt;hier könnte deine Datenkrake stehen&amp;gt;!], auf welchen Webseiten ich mich sonst bewege und was ich dort mache? Wie kann man sich durch das Aufrufen einer Webseite mit Schadsoftware infizierten? Die Standardeinstellungen, mit denen wir täglich surfen, sind inhärent unsicher und ermöglichen eine kinderleichte Überwachung unserer Aktivitäten.</description></item><item><title>Grundkurs Analoge Fotografie - S/W-Entwicklung</title><link>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</link><pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</guid><description>**TERMINE** Sonntag, 22. April 2018, 14 Uhr **DAUER** etwa 4 Stunden **TEILNEHMER** maximal 3 **KOSTEN** ca. 10 EUR **KURSLEITER** David Rauh **ORT** Eigenbaukombinat **INHALT** Der Workshop dient dazu, den Einstieg in die Entwicklung von S/W-Negativ-Filmen und die Vergrößerung auf Papier zu bieten. Nach einer kurzen theoretischen Einführung wird es direkt in die Dunkelkammer gehen.</description></item><item><title>Konstruktion mit CAD, Sketchup und Co.</title><link>https://eigenbaukombinat.de/konstruktion-mit-cad-sketchup-und-co/</link><pubDate>Fri, 01 Feb 2013 13:46:21 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/konstruktion-mit-cad-sketchup-und-co/</guid><description>QCAD und LibreCAD Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.
-Kommerzielle Version QCad 3.0 (32 EUR im Download) Open-Source LibreCad 2.0 (gratis, aber ohne Tastenkürzelunterstützung) Sketchup! Das bekannte 3D-Zeichenprogramm von Google wurde zur Weiterentwicklung an die Firma Trimble ausgegliedert und ist ab sofort hier herunterzuladen.
-Wer bereits anfangen möchte sich einzuarbeiten findet hier zwei gut gemachte Video-Tutorials der Zeitschrift Holzwerken:</description></item><item><title>Holzarten und Holzwerkstoffe</title><link>https://eigenbaukombinat.de/holzarten-und-holzwerkstoffe/</link><pubDate>Fri, 11 Jan 2013 02:11:30 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/holzarten-und-holzwerkstoffe/</guid><description>Holzarten
-Weichhölzer
-* Fichte, Kiefer Harthölzer
-* Buche, Eiche Holzwerkstoffe (&amp;ldquo;Plattenware&amp;rdquo;)
-* **MDF** Mitteldichte Faserplatte * **HDF** Hochdichte Faserplatte, meist in zwei bis vier Millimetern Dicke angeboten * **Multiplex** Mehrlagenholz. Es werden Furnierschichten von einer durchschnittlichen Dicke von etwa 1.5mm jeweils um 90° gedreht miteinander verleimt. Dadurch bekommt die Platte eine hohe Verzugsfestigkeit.</description></item><item><title>Sicherheit im Umgang mit Maschinen</title><link>https://eigenbaukombinat.de/sicherheit-im-umgang-mit-maschinen/</link><pubDate>Wed, 09 Jan 2013 23:30:01 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/sicherheit-im-umgang-mit-maschinen/</guid><description> * [&amp;quot;Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten&amp;quot; der ](https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)[&amp;quot;BG Holz und Metall&amp;quot;](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) SEHR informatives und wichtiges Übersichtswerk über den korrekten Umgang mit diversen Holzbearbeitungsmaschinen. Pflichtlektüre, für alle die an Kappsäge, Abrichthobel und Co. arbeiten (wollen). * [Dazugehörige Plakate der &amp;quot;BG Holz und Metall&amp;quot; zur Holzbearbeitung](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) * [Weitere Inhalte der Mediathek der ehemaligen HolzBG](https://www.bghm.de/arbeitsschuetzer/praxishilfen/unterweisungshilfen.html)</description></item><item><title>Laminat verlegen</title><link>https://eigenbaukombinat.de/laminat-verlegen/</link><pubDate>Wed, 02 Jan 2013 00:14:40 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/laminat-verlegen/</guid><description>Im Rahmen des Verlegens des Fußbodens in zwei Räumen hab ich geschaut, welche Beiträge es zum Thema gibt. Die beiden folgenden Links fand ich sehr hilfreich:
-* https://heimwerker-netzwerk.de/laminat-verlegen/ * https://www.doit-tv.de/renovieren_waende_und_boeden/bodenbelaege/laminat_selbst_verlegen_teil_1.html</description></item><item><title>Baumärkte in Halle und Umgebung</title><link>https://eigenbaukombinat.de/baumarkte-in-halle-und-umgebung/</link><pubDate>Wed, 02 Jan 2013 00:11:14 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/baumarkte-in-halle-und-umgebung/</guid><description>Hela Baumarkt Webseite MAPS: Zeppelinstraße 3, 06130 Halle  Telefon: 0345/13380 Telefax: 0345-1338200 E-Mail: Infozentrum-Halle@hela.de Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr
-Hellweg Baumarkt Webseite MAPS: Industriestr. 1, 06132 Halle Tel.: 0345 /779190 Fax: 0345 /7791930 Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr
-BAUHAUS Baumarkt Merseburg Webseite MAPS: Kollenbeyer Weg 2, 06217 Merseburg-Meuschau Telefon: 03461 /3314 0 Fax: 03461 /3314 13 E-Mail: Info.NL405@bauhaus-ag.de Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr</description></item><item><title>Raumakustik und Digitale Raumkorrektur mit DRC</title><link>https://eigenbaukombinat.de/raumakustik-und-digitale-raumkorrektur-mit-drc/</link><pubDate>Fri, 21 Dec 2012 23:58:27 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/raumakustik-und-digitale-raumkorrektur-mit-drc/</guid><description>PoisonNuke hat nach jahrelanger Bastelei sein Wissen und seine Erfahrungen über und mit Raumakustik, insbesondere in Bezug auf ein DBA, sehr übersichtlich, verständlich und ausführlich niedergeschrieben: https://www.poisonnuke.de/index.php?action=Raumakustik
-Die Raumkorrektursoftware DRC befindet sich hier: https://drc-fir.sourceforge.net/doc/drc.html</description></item><item><title>Lautsprecher Messsoftware MLS/FFT</title><link>https://eigenbaukombinat.de/lautsprecher-messsoftware-mlsfft/</link><pubDate>Wed, 12 Dec 2012 00:04:17 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/lautsprecher-messsoftware-mlsfft/</guid><description>Verschiedene Software zum Messen und Einstellen von Lautsprechern:
-https://forum.studiotips.com/viewtopic.php?t=151</description></item><item><title>Tischbohrmaschine</title><link>https://eigenbaukombinat.de/tischbohrmaschine/</link><pubDate>Sun, 02 Dec 2012 00:36:45 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/tischbohrmaschine/</guid><description>Für die Tischbohrmaschine ist es sehr praktischen einen kleinen Bohrtisch mit verstellbaren Anschlägen selber zu bauen. Dazu vorerst hier ein paar Ideensammlungen.
-* VIDEO: Einen schönen Bohrtisch selber bauen: Drill Press Table - Part 1 [https://www.youtube.com/watch?v=U1GP_EgjA7M](https://www.youtube.com/watch?v=U1GP_EgjA7M) * BILD: Ein fertig käufliches Modell bei axminster, Bilder davon gibt es [hier](https://www.axminster.co.uk/axminster-deluxe-pillar-drill-tables) und [hier](https://www.axminster.co.uk/axminster-pillar-drill-table).</description></item><item><title>Multifunktionstisch: Festool MFT/3</title><link>https://eigenbaukombinat.de/multifunktionstisch-festool-mft3/</link><pubDate>Sun, 02 Dec 2012 00:31:20 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/multifunktionstisch-festool-mft3/</guid><description>Tipps und Tricks
-Um Kleinteile auf der Oberseite sortieren zu können, ohne dass diese in den 20mm Löchern verschwinden habe ich im Baumarkt eine 3mm Dünn-MDF oder Hartfaserplatte zuschneiden lassen (1102mm x 718mm), die ich bei Bedarf einfach auf die Oberseite auflege. Stauraum unter einem MFT mit einem Schrank optimal nutzen</description></item><item><title>Handbücher, Informationen, Kataloge etc.</title><link>https://eigenbaukombinat.de/handbucher-informationen-kataloge-etc/</link><pubDate>Sun, 02 Dec 2012 00:20:20 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/handbucher-informationen-kataloge-etc/</guid><description>Kataloge:
-* [CMT Fräserkatalog 2012](https://www.cmtutensili.com/media/Files/143_13_english_catalogue_2012.pdf) Magazine:
-* [Holzidee -- Das Magazin](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Holzidee-Heimwerken/Seiten/Holzidee-Magazin-Ausgaben.aspx) Leider eingestellt, hier kann man alle 13 Ausgaben als PDF herunterladen. Baupläne, Tipps und Tricks:
-* [Festool: Baupläne Holz](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Bauplan-Selberbauen-Holz/Seiten/Bauplaene.aspx) * [Festool: Grundlagen Möbelmaße](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Documents/03_tipps/Grundlagen_Moebelmasse.pdf) * [Festool: Das Werkzeichen](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Documents/03_tipps/Werkzeichen.pdf) * [Festool: Übersicht Werkstatt-Tipps](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Seiten/Tipps-und-Tricks.aspx) Generelle Informationen:
-* [&amp;quot;Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten&amp;quot; der ](https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)[&amp;quot;BG Holz und Metall&amp;quot;](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) * [Plakate der &amp;quot;BG Holz und Metall&amp;quot; zur Holzbearbeitung](https://www.</description></item><item><title>Schleifen mit Schleifsteinen</title><link>https://eigenbaukombinat.de/schleifen-mit-schleifsteinen/</link><pubDate>Fri, 16 Nov 2012 15:59:49 +0000</pubDate><author>kontakt@eigenbaukombinat.de (EBK Impressum)</author><guid>https://eigenbaukombinat.de/schleifen-mit-schleifsteinen/</guid><description>Jeder kennt das Problem: Messer, die man oft benutzt hat, werden stumpf.
-Wir haben daher zwei Schleifsteine aus Japan angeschafft. Zunächst muss man sie Wasser aufsaugen lassen, um das Messer gleichmäßig schleifen zu können. Beide Schleifsteine haben zwei Seiten mit unterschiedlicher Körnung.
-Zum Schleifen zieht man die Messer langsam über die nassen Schleifsteine. Man sieht das abgeschliffene Metall in Form des schwarzen Staubes, der sich auf dem Schleifstein niederlässt (aber ganz einfach durch Abwaschen wieder beseitigt werden kann).</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wissen on Eigenbau​kombinat</title><link>https://eigenbaukombinat.de/categories/wissen/</link><description>Recent content in Wissen on Eigenbau​kombinat</description><generator>Hugo</generator><language>de</language><lastBuildDate>Tue, 29 Oct 2024 15:30:00 +0000</lastBuildDate><atom:link href="https://eigenbaukombinat.de/categories/wissen/index.xml" rel="self" type="application/rss+xml"/><item><title>Blenderkurs 2024</title><link>https://eigenbaukombinat.de/kurs-blender-2024/</link><pubDate>Tue, 29 Oct 2024 15:30:00 +0000</pubDate><guid>https://eigenbaukombinat.de/kurs-blender-2024/</guid><description>&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2024/10/kurs-blender-2024.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2024/10/kurs-blender-2024.jpg" alt="/wp-content/uploads/2024/10/kurs-blender-2024.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2024/10/kurs-blender-2024.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;p>Hallo Ihr Lieben,&lt;/p>
+&lt;p>auf vielfachen Wunsch werde ich bald wieder einen Blender-Kurs anbieten!&lt;/p>
+&lt;h2 id="was-ist-blender">Was ist Blender?&lt;/h2>
+&lt;p>Blender ist eine plattformunabhängige 3D-Grafiksoftware, mit der Sie Objekte modellieren, texturieren und animieren können. Diese Kreationen lassen sich in Grafiken, Animationen und Softwareprojekten einsetzen.&lt;/p>
+&lt;p>Mehr infos unter: &lt;a href="https://de.wikipedia.org/wiki/Blender_%28Software%29">https://de.wikipedia.org/wiki/Blender_(Software)&lt;/a>&lt;/p>
+&lt;p>Download: &lt;a href="https://www.blender.org/">https://www.blender.org/&lt;/a>&lt;/p>
+&lt;h2 id="für-wen-ist-der-kurs">Für wen ist der Kurs?&lt;/h2>
+&lt;ul>
+&lt;li>Für alle, die komplexe Formen für den 3D-Druck erstellen möchten&lt;/li>
+&lt;li>Für Spielentwickler&lt;/li>
+&lt;li>Für 3D-Künstler und Designer&lt;/li>
+&lt;li>Für Einsteiger, die in die Welt der 3D-Grafik eintauchen wollen&lt;/li>
+&lt;/ul>
+&lt;p>Der Kurs steht &lt;strong>auch&lt;/strong> Nicht-Mitgliedern des Eigenbaukombinats offen. Wenn ihr Freunde oder Bekannte kennt, die Interesse haben, meldet sie gerne gleich mit an! 😊&lt;/p></description></item><item><title>Jugend hackt in Halle geht in die 5. Runde</title><link>https://eigenbaukombinat.de/jugend-hackt-halle-2023-anmeldung/</link><pubDate>Mon, 09 Oct 2023 08:00:00 +0000</pubDate><guid>https://eigenbaukombinat.de/jugend-hackt-halle-2023-anmeldung/</guid><description>&lt;h3 id="jugend-hackt-halle-2023">&lt;strong>Jugend hackt Halle 2023&lt;/strong>&lt;/h3>
+&lt;p>Für Eilige: &lt;a href="https://anmeldung.jugendhackt.org/halle/2023/">Anmeldung zu Jugend hackt Halle 2023&lt;/a>&lt;/p>
+&lt;p>
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2023/10/Jugndhackt-2019-03.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2023/10/Jugndhackt-2019-03.jpg" alt="/wp-content/uploads/2023/10/Jugndhackt-2019-03.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2023/10/Jugndhackt-2019-03.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+Jugend hackt in Halle - 2019 &lt;a href="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0 Jugend hackt, Foto: Manuel Schmuck&lt;/a>&lt;/p>
+&lt;p>Seit 2013 veranstalten die Open Knowledge Foundation Deutschland und mediale pfade „Jugend hackt“, ein inzwischen
+erfolgreich etablierter Hackathon für Jugendliche von 12 bis 18 Jahren. Seit der Gründung wächst Jugend hackt stetig und
+findet mittlerweile in zahlreichen Städten in Deutschland, Österreich und der Schweiz statt.&lt;!-- more -->&lt;/p></description></item><item><title>Blick über den Tellerrand (50)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-50/</link><pubDate>Sat, 23 Nov 2019 09:51:09 +0000</pubDate><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-50/</guid><description>&lt;p>Der Tellerrand wird 50, juchu! Heute mit:&lt;/p>
+&lt;ul>
+&lt;li>einer &lt;a href="https://www.youtube.com/watch?v=c7hVVr3riH0">Nachttischlampe aus Holz + Epoxidharz&lt;/a>,&lt;/li>
+&lt;li>der &lt;a href="https://www.youtube.com/watch?v=gZKosTZSfBA">Restauration eines alten Hammers&lt;/a>, und&lt;/li>
+&lt;li>einem &lt;a href="https://www.youtube.com/watch?v=FH48LlZ2jE0">kleinen Nähprojekt für Zwischendurch&lt;/a>.&lt;/li>
+&lt;/ul></description></item><item><title>Blick über den Tellerrand (49)</title><link>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-49/</link><pubDate>Fri, 25 Oct 2019 15:47:56 +0000</pubDate><guid>https://eigenbaukombinat.de/blick-ueber-den-tellerrand-49/</guid><description>&lt;p>Heute im Tellerrand: Ornithopter vs. Raubvogel (VIDEO), Metallkappsäge mit Trennschleifer selbst gebaut (VIDEO), Entstehung eines Tiny House auf einem Anhänger.&lt;/p>
+&lt;!-- more -->
+&lt;ul>
+&lt;li>Ein selbstgebauter &lt;a href="https://www.youtube.com/watch?v=L-BklB99ybM">Vogel kreist und zieht die Raubvögel an&lt;/a>&lt;/li>
+&lt;li>selbstgebaute &lt;a href="https://www.youtube.com/watch?v=FlmCIKA6N4c">Kappsäge aus einem Trennschleifer&lt;/a>&lt;/li>
+&lt;li>Dokumentation vom SWR: &lt;a href="https://www.youtube.com/watch?v=BJDYlJaMuv0">Wie ein Tiny House gebaut wird&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>HP ChromeBook G4 mit Linux versehen</title><link>https://eigenbaukombinat.de/hp-chromebook-g4-mit-linux-versehen/</link><pubDate>Thu, 24 Oct 2019 16:08:19 +0000</pubDate><guid>https://eigenbaukombinat.de/hp-chromebook-g4-mit-linux-versehen/</guid><description>&lt;p>Obwohl die ChromeBooks technisch und optisch schön sind, stört sich mancher am Google-Betriebssystem. Glücklicherweise gibt es &lt;a href="https://www.galliumos.org">GalliumOS&lt;/a>, eine speziell angepasste Ubuntu-Version, die auf den Intel-basierten ChromeBooks läuft.&lt;/p>
+&lt;!-- more -->
+&lt;p>Im Unterschied zu einem normalen Ubuntu 16.04 oder 18.04 sind hier die speziellen Treiber schon mit drin, damit WLAN, Webcam und vor allem Videobeschleunigung ruckelfrei funktionieren. So lässt es sich dann angenehm arbeiten, inklusiver sehr langer Akkulaufzeit!&lt;/p>
+&lt;p>Der Umbau auf Linux ist etwas anstrengend, aber &lt;a href="https://www.youtube.com/watch?v=T6-5y24-95w">in diesem Video hier&lt;/a> sehr ausführlich und verständlich beschrieben. Es sind inklusive Installation etwa 2-3 Stunden einzuplanen. Der Ablauf gliedert sich dabei grob in folgende Schritte:&lt;/p></description></item><item><title>Ringmanufaktur</title><link>https://eigenbaukombinat.de/ringmanufaktur/</link><pubDate>Mon, 21 Oct 2019 10:53:00 +0000</pubDate><guid>https://eigenbaukombinat.de/ringmanufaktur/</guid><description>&lt;p>Da Ringe aus dem 3D-Drucker sich großer Beliebtheit erfreuen, möchte ich anstatt nur nachzudrucken gern selber welche gestalten. Daher habe ich mit OpenSCAD einen parametrisierten, d.h. einstellbaren Ringgenerator, gebaut, den ich hier kurz vorstellen möchte.&lt;/p>
+&lt;!-- more -->
+
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/10/image-3.png');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image-3.png" alt="/wp-content/uploads/2019/10/image-3.png"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/10/image-3.png" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+&lt;p>Durch die Parameter am Anfang der Datei kann einfach der gewünschte Ring eingestellt werden. Z.B. kann der Ringinnendurchmesser definiert werden (Einstellung hier: 18mm) und auch alle anderen Parameter, wie zum Beispiel:&lt;/p></description></item><item><title>Jugend hackt in Halle geht in die 3. Runde – Anmeldung ist geöffnet -</title><link>https://eigenbaukombinat.de/jugend-hackt-in-halle-geht-in-die-3-runde-anmeldung-ist-geoeffnet/</link><pubDate>Mon, 18 Mar 2019 08:00:00 +0000</pubDate><guid>https://eigenbaukombinat.de/jugend-hackt-in-halle-geht-in-die-3-runde-anmeldung-ist-geoeffnet/</guid><description>&lt;h3 id="was-bisher-geschah">&lt;strong>Was bisher geschah…&lt;/strong>&lt;/h3>
+&lt;p>
+
+
+&lt;div class="gallery caption-position-bottom caption-effect-fade hover-effect-zoom hover-transition" itemscope itemtype="http://schema.org/ImageGallery">
+	 
+
+&lt;link rel="stylesheet" href="https://eigenbaukombinat.de/css/hugo-easy-gallery.css" />
+&lt;div class="box" >
+ &lt;figure itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+ &lt;div class="img" style="background-image: url('https://eigenbaukombinat.de//wp-content/uploads/2019/03/Jugend-hackt_2.jpg');">
+ &lt;img itemprop="thumbnail" src="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_2.jpg" alt="/wp-content/uploads/2019/03/Jugend-hackt_2.jpg"/>
+ &lt;/div>
+ &lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2019/03/Jugend-hackt_2.jpg" itemprop="contentUrl">&lt;/a>
+ &lt;/figure>
+&lt;/div>
+
+
+&lt;/div>
+
+Jugend hackt in Halle - 2018 &lt;a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 Lisa Krug (Jugend hackt)&lt;/a>&lt;/p>
+&lt;p>Seit 2013 veranstalten die Open Knowledge Foundation Deutschland und mediale pfade „Jugend hackt“, ein inzwischen erfolgreich etablierter Hackathon für Jugendliche von 12 bis 18 Jahren. Seit der Gründung wächst Jugend hackt stetig und findet mittlerweile in zahlreichen Städten in Deutschland, Österreich und der Schweiz statt.&lt;!-- more -->&lt;/p></description></item><item><title>Workshop Schweißkurs</title><link>https://eigenbaukombinat.de/workshop-schweisskurs/</link><pubDate>Tue, 05 Feb 2019 19:42:51 +0000</pubDate><guid>https://eigenbaukombinat.de/workshop-schweisskurs/</guid><description>&lt;table >
+&lt;tbody >
+&lt;tr >
+&lt;td >**TERMIN**
+&lt;/td>
+&lt;td >02. - 03.03.2019
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**DAUER**
+&lt;/td>
+&lt;td >2x 4 Stunden
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**TEILNEHMER**
+&lt;/td>
+&lt;td >max. 12
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**KOSTEN**
+&lt;/td>
+&lt;td >40 Euro für Vereinsmitglieder, 80 Euro für Externe
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**KURSLEITER**
+&lt;/td>
+&lt;td >Jens Köster
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**ORT**
+&lt;/td>
+&lt;td >Eigenbaukombinat
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td >**INHALT**
+&lt;/td>
+&lt;td >Am 02. - 03.03.2019 wird in 8h dem Kursteilnehmer in Theorie und Praxis alles nötige Wissen vermittelt, um danach selbständig seine Fertigkeit am Schweißgerät einzuschätzen und durch Übung zu optimieren. Praktisch wird an unserem Schutzgasschweißgerät (MIG/MAG) am Elektrodenschweißgerät geübt. Des weiteren gehört dazu eine Unterweisung in die Metallbandsäge und dem Winkelschleifer (Flex), um einen sicheren Umgang mit den Geräten der Vorbereitung zum Schweißen zu gewährleisten.
+&lt;p>Zeitplan:
+02.03.2019
+09:00 - 13:00 Uhr Theorieteil für alle Teilnehmer zusammen. (4h)
+1h Mittag
+14:00 - 18:00 Uhr Praxisteil für Kursteilnehmer 1 - 4 (Timeslot A 4h)&lt;/p></description></item><item><title>Nachlese: Schweißkurs am 20/21.01.2019</title><link>https://eigenbaukombinat.de/nachlese-schweisskurs-am-20-21-01-2019/</link><pubDate>Mon, 04 Feb 2019 20:31:09 +0000</pubDate><guid>https://eigenbaukombinat.de/nachlese-schweisskurs-am-20-21-01-2019/</guid><description>&lt;p>Schweißtreibender Kurs! Zum Start ins neue Jahr, wurde am 19. und 20. Januar 2019 interessierten Teilnehmern das Schweißen nähergebracht. Jens, der Leitende des Kurses, hat an diesen Tagen seine Erfahrung und Wissen mit den 12 Anwesenden geteilt. &lt;!-- more -->&lt;/p>
+&lt;p>Begonnen wurde mit einem Theorieteil, der die Grundlagen vermittelte. Dabei wurde das MIG-MAG und das Elektroden Schweißen erläutert. Das Schweißen ist im Allgemeinen ein Vorgang bei den Bauteilen unter einer hohen Temperatur und/oder Druck zusammengefügt werden. Dies passiert mit oder ohne eines Schweißzusatzstoffes, wie beispielsweise einer Elektrode. Nachdem der Theorieteil abgeschlossen war, wurden die Anwesenden in 3 Gruppen von je 4 Leuten eingeteilt und durch den praktischen Abschnitt geführt. Bei diesem ging es darum, die Geräte zu benutzen und die ersten Schweißnähte zu fertigen. Zuerst wurde an Probestücken geübt. Später sollten die Teilnehmer T-Stücke und Quadratrohre zusammenfügen. Die Komponenten wurden erst aus langen Quadratrohren geschnitten und dann geschliffen. Hier war der Einsatz einer Bügelbandsäge und einer Flex gefragt, deren Gebrauch und Zweck auch jeweils vorgestellt wurden.&lt;/p></description></item><item><title>Feinstaubwerte zum Jahreswechsel 2018/2019</title><link>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</link><pubDate>Sun, 06 Jan 2019 16:24:18 +0000</pubDate><guid>https://eigenbaukombinat.de/feinstaubwerte-zum-jahreswechsel-2018-2019/</guid><description>&lt;p>Wie jedes Jahr ist der starke Anstieg der Feinstaubwerte besonders zum Jahreswechsel zu sehen.  Der Feuerwerksqualm welcher größtenteils aus Feinstaub der Größe PM10 (Particulate Matter, Staubteilchen mit einem Durchmesser von ca. 10µm) besteht tritt hier besonders hervor. Um so kleiner die Feinstaubpartikel sind um so größer ist die Gesundheitsgefährdung insbesondere in Ballungszentren.&lt;/p>
+&lt;!-- more -->
+&lt;p>Da auch das Eigenbaukombinat Halle e.V. wie auch viele Mitglieder einen Feinstaubsensor Nova PM Sensor SDS011 verwenden und sich am OpenData/Citizen Science-Projekt &lt;a href="https://luftdaten.info">Luftdaten.info&lt;/a> vom OK Lab Stuttgart beteiligen, können wir an dieser Stelle unsere Grafik zum Jahreswechsel bereitstellen.&lt;/p></description></item><item><title>Privatsphäre im Internet - Verschlüsseln kann jeder</title><link>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder-2/</link><pubDate>Mon, 04 Jun 2018 14:44:02 +0000</pubDate><guid>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder-2/</guid><description>&lt;p>&amp;ldquo;Wollen wir in unserem Land wirklich eine Kommunikation zulassen, die
+wir im Extremfall nicht mitlesen können?&amp;rdquo; Zitat - David Cameron, 2015&lt;/p>
+&lt;p>JA! Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und
+umständlich sein.&lt;/p>
+&lt;p>Am &lt;a href="https://eigenbaukombinat.de/cryptoparty/">07. Juni ab 17:30 Uhr&lt;/a> veranstalten wir deshalb in Kooperation mit der Landeszentrale für politische Bildung Sachsen-Anhalt eine Cryptoparty.&lt;!-- more -->&lt;/p>
+&lt;p>Wir wollen mit euch im Workshop zusammen eine
+E-Mail-Verschlüsselung einrichten.
+Bring dein Notebook/Smartphone/Tablet mit oder
+sag uns Bescheid, wenn du ein Gerät von uns nutzen möchtest.&lt;/p></description></item><item><title>Audiotreffen: Mini-Audio-Projekte</title><link>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</link><pubDate>Fri, 23 Feb 2018 19:22:54 +0000</pubDate><guid>https://eigenbaukombinat.de/audiotreffen-mini-audio-projekte/</guid><description>&lt;p>Am 27. Februar findet das 2. Audiotreffen im Eigenbaukombinat statt.&lt;/p>
+&lt;p>Henning wird dieses Mal eine Auswahl seiner zahlreichen Projekte vorstellen:&lt;/p>
+&lt;pre>&lt;code> * ein funktionales kooperatives Live-MIDI-Programmiersystem
+ * einen Software-Synthesizer auf Basis von LLVM, einschließlich einem Voder (also etwa Sprachsynthese)
+ * ein Ton-Memory-Spiel
+ * ein Programm, das aus MIDI-Dateien Lochstreifen für Spieluhren erzeugt
+ * ein Programm, das aus OctaMED-Musikstücken Videos macht
+ * ein Programm, welches Regler anzeigt, die man auf MIDI-Controller legen kann
+&lt;/code>&lt;/pre>
+&lt;!-- more -->
+&lt;p>Es besteht auch die Möglichkeit, sich ein Bild von den Fortschritten im Audiobereich machen, denn seit dem letzten Treffen hat sich einiges verändert.&lt;/p></description></item><item><title>Audiotreffen</title><link>https://eigenbaukombinat.de/audiotreffen/</link><pubDate>Fri, 23 Feb 2018 18:59:09 +0000</pubDate><guid>https://eigenbaukombinat.de/audiotreffen/</guid><description>&lt;table >
+&lt;tbody >
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**TERMIN**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >jeden Monat am vierten Dienstag, 19 Uhr
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**TEILNEHMER**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >unbeschränkt
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**KOSTEN**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >kostenlos
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**ANSPRECHPARTNER**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >David Rauh
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**ORT**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >Eigenbaukombinat
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**INHALT**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >
+Alles rund um Audio, Treffpunkt Tonstudio.
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="padding: 5px; width: 20%; text-align: right;" >**ANMELDUNG**
+&lt;/td>
+&lt;td style="padding: 5px; text-align: left;" >nicht notwendig
+&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Privatsphäre im Internet - Verschlüsseln kann jeder</title><link>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder/</link><pubDate>Fri, 03 Nov 2017 13:52:38 +0000</pubDate><guid>https://eigenbaukombinat.de/privatsphaere-im-internet-verschluesseln-kann-jeder/</guid><description>&lt;p>&amp;ldquo;Wollen wir in unserem Land wirklich eine Kommunikation zulassen, die
+wir im Extremfall nicht mitlesen können?&amp;rdquo; Zitat - David Cameron, 2015&lt;/p>
+&lt;p>JA! Verschlüsselung im Alltag muss nicht zwangsläufig kompliziert und
+umständlich sein.&lt;/p>
+&lt;p>Am &lt;a href="https://eigenbaukombinat.de/cryptoparty/">23. November ab 18.30 Uhr&lt;/a> veranstalten wir deshalb zum &amp;ldquo;TAG DER MEDIENKOMPETENZ Sachsen-Anhalt&amp;rdquo; eine Cryptoparty.&lt;!-- more -->&lt;/p>
+&lt;p>Wir wollen mit euch im Workshop zusammen eine
+E-Mail-Verschlüsselung einrichten.
+Bring dein Notebook/Smartphone/Tablet mit oder
+sag uns Bescheid, wenn du ein Gerät von uns nutzen möchtest.&lt;/p></description></item><item><title>Grundkurs Bierbrauen am 14. Oktober</title><link>https://eigenbaukombinat.de/grundkurs-bierbrauen-am-14-oktober/</link><pubDate>Thu, 21 Sep 2017 17:28:55 +0000</pubDate><guid>https://eigenbaukombinat.de/grundkurs-bierbrauen-am-14-oktober/</guid><description>&lt;p>An 14. Oktober wird das Eigenbaukombinat wieder zum EIGENBRAUKOMBINAT. Im Hobbybrauer-Workshop erfahrt ihr, wie ihr Euch zu Hause mit ein wenig Ausrüstung und etwas Zeit euer eigenes Bier brauen könnt.&lt;/p>
+&lt;p>&lt;strong>Anmeldung:&lt;/strong> E-Mail an &lt;a href="mailto:veranstaltungen@eigenbaukombinat.de?subject=Anmeldung%20Grundkurs%20Bierbrauen">veranstaltungen@eigenbaukombinat.de&lt;/a>&lt;/p>
+&lt;!-- more -->
+&lt;p>Dabei geht es nicht nur um trockene Theorie - wir brauen an diesem Tag zusammen ein Bier und ihr erfahrt nebenbei Schritt für Schritt, wie ihr aus Gerstenmalz, Hopfen und Bierhefe euer eigenes, individuelles Bier brauen könnt.&lt;/p></description></item><item><title>science@eigenbaukombinat: Künstliche Intelligenz</title><link>https://eigenbaukombinat.de/scienceeigenbaukombinat-kuenstliche-intelligenz/</link><pubDate>Mon, 04 Sep 2017 23:27:03 +0000</pubDate><guid>https://eigenbaukombinat.de/scienceeigenbaukombinat-kuenstliche-intelligenz/</guid><description>&lt;p>In den Medien findet aktuell eine spannende Debatte um Künstliche Intelligenz statt. Verschiedene Akteure warnen vor Gefahren, andere dagegen würdigen die Chancen und Möglichkeiten, die sich durch die neuesten Entwicklungen ergeben. Sicher ist, maschinelle Intelligenz dringt in immer mehr Lebensbereiche ein und wird künftig stärker unser Leben bestimmen.&lt;/p>
+&lt;p>Aber was ist &lt;strong>Künstliche Intelligenz&lt;/strong> eigentlich?&lt;/p>
+&lt;p>Am &lt;strong>27. September, 19:30 Uhr&lt;/strong> wird uns während der ersten &lt;a href="https://www.facebook.com/events/1475880035799536">Veranstaltung&lt;/a> der Reihe &lt;strong>science@eigenbaukombinat&lt;/strong> genau diese Frage beschäftigen . Durch einen Input-Vortrag wird das Thema grob umrissen und Begriffe wie Machine Learning, technologische Singularität und neuronale Netze werden erklärt. Anschließend besteht die Möglichkeit zu Austausch und Diskussion unter den Teilnehmenden. Die Veranstaltungsteilnahme ist kostenlos und alle am Thema Interessierten sind willkommen.&lt;/p></description></item><item><title>Passworthashes generieren mit Hashcat</title><link>https://eigenbaukombinat.de/passworthashes-generieren-mit-hashcat/</link><pubDate>Mon, 10 Jul 2017 14:55:07 +0000</pubDate><guid>https://eigenbaukombinat.de/passworthashes-generieren-mit-hashcat/</guid><description>&lt;p>Vorgeschichte:
+Anfang des Jahres haben wir im Rahmen unserer &lt;a href="https://eigenbaukombinat.de/technik-notaufnahme/">Techniknotaufnahme&lt;/a> ein altes, teildefektes, Notebook eingemottet und durch ein gebrauchtes Businessgerät ersetzt.&lt;!-- more -->
+In dem Zuge wurde ein Ubuntu samt Verschlüsselung des Benutzerverzeichnisses, via ecryptfs, installiert.
+Natürlich gab es auch gleich einen Crashkurs in der richtigen Wahl eines sicheren und leicht merkbaren Passwortes (&lt;a href="https://eigenbaukombinat.de/xkcd.com/936/">xkcd password strength&lt;/a> ).
+Soweit alles wie immer.&lt;/p>
+&lt;p>In der nachfolgenden Zeit wurde das Notebook jedoch, aufgrund eines längeren Auslandaufenthaltes, etwa drei Monate nicht benutzt.
+Und es kam wie es kommen musste: das Loginpasswort, und damit auch das Passwort zum Entschlüsseln der Daten, wurde vergessen.&lt;/p></description></item><item><title>WannaCry, Ransomware, Cryptotrojaner? – Wir klären auf!</title><link>https://eigenbaukombinat.de/wannacry-ransomware-cryptotrojaner-wir-klaeren-auf/</link><pubDate>Mon, 15 May 2017 17:36:50 +0000</pubDate><guid>https://eigenbaukombinat.de/wannacry-ransomware-cryptotrojaner-wir-klaeren-auf/</guid><description>&lt;p>TL;DR: Wir laden am kommenden Samstag, 20. Mai ab 18:00 Uhr zu einem öffentlichen Informationsabend zum Thema Malware ein.&lt;/p>
+&lt;!-- more -->
+&lt;p>Aktuell ist die Ransomware »WannaCry« in aller Munde. Der Wurm verbreitet sich weltweit auf Systemen von Unternehmen, Institutionen und Privatpersonen. Auch wenn die Ausmaße der befallenen Systeme und die weitere Verbreitungsgeschwindigkeit noch nicht absehbar sind, ist jetzt schon ersichtlich, dass der aktuelle Vorfall sich in die Reihe der größten globalen IT-Sicherheitskatastrophen einreihen wird: Krankenhäuser müssen Patienten abweisen, bei Autoherstellern stehen die Bänder still, die Anzeigen in Zügen und auf Bahnhöfen sind leer. Doch was bedeutet das wirklich? Was ist passiert? Wo liegen die Ursachen und wie kann man sich dagegen schützen? Auf diese Fragen geben wir am Samstag, den 20. Mai ab 18:00 Uhr im Rahmen eines Informationsabends Antworten.&lt;/p></description></item><item><title>Spieleabend am 5. Mai: Videospiele, Schach und Go</title><link>https://eigenbaukombinat.de/spieleabend-am-5-mai-videospiele-schach-und-go/</link><pubDate>Sun, 30 Apr 2017 15:06:20 +0000</pubDate><guid>https://eigenbaukombinat.de/spieleabend-am-5-mai-videospiele-schach-und-go/</guid><description>&lt;p>Der Retro-Spieleabend wird ab Mai zum Spieleabend und findet ab jetzt immer am 1. Freitag im Monat um 20 Uhr statt. Es können weiterhin alte und neue Video-, Computer und Brettspiele mitgebracht und gespielt werden.  Die  Namensänderung bedeutet nicht, dass es in Zukunft nicht mehr um alte Spiele gehen wird. Im Gegenteil: Mit Schach und Go  kommen Spiele hinzu die ca. 1000 bzw. 2000 Jahre alt sind. Wir werden sehen, ob diese beim Spieleabend neben den, dagegen fast noch neuen, 8-bit-Konsolen bestehen können.&lt;/p></description></item><item><title>Videos vom 33C3 gemeinsam anschauen</title><link>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</link><pubDate>Fri, 20 Jan 2017 23:37:56 +0000</pubDate><guid>https://eigenbaukombinat.de/videos-vom-33c3-gemeinsam-anschauen/</guid><description>&lt;p>Im EBK schauen wir uns die kommenden Samstage jeweils abends um 20 Uhr einige Videos vom 33C3 an.&lt;/p>
+&lt;!-- more -->
+&lt;p>Der 33C3 ist der 33. Kongress der jährlich stattfindenden Konferenz des Chaos Computer Club zu den Themen Technologie, Gesellschaft und Zukunft. Dabei gibt es Vorträge, Workshops, Diskussionen und weitere Veranstaltungen zu IT, Hacking und künftigen Entwicklungen.&lt;/p>
+&lt;p>Wir beginnen am Samstag den 21.1.2017 mit dem Vortrag &amp;ldquo;An Elevator to the Moon (and back)&amp;rdquo; von Markus Landgraf.&lt;/p></description></item><item><title>Swap:Netzkultur 2016 Cryptotag: Datenschutz und Internetsicherheit</title><link>https://eigenbaukombinat.de/swapnetzkultur-2016/</link><pubDate>Thu, 06 Oct 2016 19:04:54 +0000</pubDate><guid>https://eigenbaukombinat.de/swapnetzkultur-2016/</guid><description>&lt;p>**Im Rahmen des &lt;a href="https://eigenbaukombinat.de/swap-netzkultur.de/">swap:Netzkultur 2016&lt;/a> widmen Terminal.21 und das Eigenbaukombinat den Samstag der Verschlüsselung. **
+&lt;strong>In einem Vortrag und einem Workshop werden die Grundlagen vermittelt.&lt;/strong>&lt;!-- more -->&lt;/p>
+&lt;p>&lt;img src="https://eigenbaukombinat.de/wp-content/uploads/2016/10/02_vortrag-121x300.png" alt="swap_vortrag">&lt;/p>
+&lt;p>**Vortrag: 5. November 11.00 – 12.30 Uhr **
+&lt;strong>Internetgrundlagen und Datenschutz&lt;/strong>&lt;/p>
+&lt;p>Wieso weiß [facebook/amazon/google/twitter/&amp;gt;hier könnte deine Datenkrake stehen&amp;gt;!], auf welchen Webseiten ich mich sonst bewege und was ich dort mache? Wie kann man sich durch das Aufrufen einer Webseite mit Schadsoftware infizierten?
+Die Standardeinstellungen, mit denen wir täglich surfen, sind inhärent unsicher und ermöglichen eine kinderleichte Überwachung unserer Aktivitäten. Die zugehörigen Mechanismen werden spätestens dann sichtbar, wenn man sich fragt: Wie funktioniert das Internet eigentlich?
+Dieser Vortrag will genau diese Frage beantworten, um anschließend auf zwei Formen des Datenschutzes einzugehen: der Sicherheit beim Surfen und dem Tracking. In Bezug auf den Browser, dem Tor zum Internet, soll besprochen werden, welche Komponenten durch Angreifende ausgenutzt werden, durch welche Einstellungen man die Angriffsfläche reduziert und schließlich die Sicherheit des Browsers zuverlässig evaluieren kann. Das Tracking beschäftigt sich dagegen mit den Spuren, die jede.r beim Surfen im Internet hinterlässt. Der Vortrag soll zeigen, welche Spuren anfallen und wie man die standardmäßige Überwachung einschränken kann.&lt;/p></description></item><item><title>Grundkurs Analoge Fotografie - S/W-Entwicklung</title><link>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</link><pubDate>Tue, 28 May 2013 15:21:23 +0000</pubDate><guid>https://eigenbaukombinat.de/workshop-analogfotoentwicklung/</guid><description>&lt;table >
+&lt;tbody style="font-size: 1.2em;" >
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**TERMINE**
+&lt;/td>
+&lt;td style="text-align: left;" > 
+Sonntag, 22. April 2018, 14 Uhr
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**DAUER**
+&lt;/td>
+&lt;td style="text-align: left;" >etwa 4 Stunden
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**TEILNEHMER**
+&lt;/td>
+&lt;td style="text-align: left;" >maximal 3
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**KOSTEN**
+&lt;/td>
+&lt;td style="text-align: left;" >ca. 10 EUR
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**KURSLEITER**
+&lt;/td>
+&lt;td style="text-align: left;" >David Rauh
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**ORT**
+&lt;/td>
+&lt;td style="text-align: left;" >Eigenbaukombinat
+&lt;/td>
+&lt;/tr>
+&lt;tr >
+&lt;td style="width: 20%; text-align: right;" >**INHALT**
+&lt;/td>
+&lt;td style="text-align: left;" >Der Workshop dient dazu, den Einstieg in die Entwicklung von S/W-Negativ-Filmen und die Vergrößerung auf Papier zu bieten. Nach einer kurzen theoretischen Einführung wird es direkt in die Dunkelkammer gehen.
+&lt;p>Ihr könnt für den Workshop gern eigenes belichtetes, und gegebenenfalls auch schon entwickeltes, Filmmaterial (echter S/W-Film, kein C41) mitbringen. Beachtet aber, dass beim ersten Versuch auch immer etwas schiefgehen kann.&lt;/p></description></item><item><title>Konstruktion mit CAD, Sketchup und Co.</title><link>https://eigenbaukombinat.de/konstruktion-mit-cad-sketchup-und-co/</link><pubDate>Fri, 01 Feb 2013 13:46:21 +0000</pubDate><guid>https://eigenbaukombinat.de/konstruktion-mit-cad-sketchup-und-co/</guid><description>&lt;p>&lt;strong>QCAD und LibreCAD&lt;/strong>
+Das einfach zu bedienende Program QCAD hat einen neuen, kostenlosen OpenSource-Ableger bekommen, er heißt LibreCAD. Hier die Links für alle Interessenten.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://qcad.org/de/">Kommerzielle Version QCad 3.0 (32 EUR im Download)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://librecad.org/cms/home.html">Open-Source LibreCad 2.0 (gratis, aber ohne Tastenkürzelunterstützung)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Sketchup!&lt;/strong>
+Das bekannte 3D-Zeichenprogramm von Google wurde zur Weiterentwicklung an die Firma Trimble ausgegliedert und ist ab sofort &lt;a href="https://www.sketchup.com/">hier herunterzuladen&lt;/a>.&lt;/p>
+&lt;p>Wer bereits anfangen möchte sich einzuarbeiten findet hier zwei gut gemachte Video-Tutorials der Zeitschrift Holzwerken:&lt;/p></description></item><item><title>Holzarten und Holzwerkstoffe</title><link>https://eigenbaukombinat.de/holzarten-und-holzwerkstoffe/</link><pubDate>Fri, 11 Jan 2013 02:11:30 +0000</pubDate><guid>https://eigenbaukombinat.de/holzarten-und-holzwerkstoffe/</guid><description>&lt;p>&lt;strong>Holzarten&lt;/strong>&lt;/p>
+&lt;p>Weichhölzer&lt;/p>
+&lt;pre>&lt;code> * Fichte, Kiefer
+&lt;/code>&lt;/pre>
+&lt;p>Harthölzer&lt;/p>
+&lt;pre>&lt;code> * Buche, Eiche
+&lt;/code>&lt;/pre>
+&lt;p>&lt;strong>Holzwerkstoffe (&amp;ldquo;Plattenware&amp;rdquo;)&lt;/strong>&lt;/p>
+&lt;pre>&lt;code> * **MDF** Mitteldichte Faserplatte
+ * **HDF** Hochdichte Faserplatte, meist in zwei bis vier Millimetern Dicke angeboten
+ * **Multiplex** Mehrlagenholz. Es werden Furnierschichten von einer durchschnittlichen Dicke von etwa 1.5mm jeweils um 90° gedreht miteinander verleimt. Dadurch bekommt die Platte eine hohe Verzugsfestigkeit.
+&lt;/code>&lt;/pre></description></item><item><title>Sicherheit im Umgang mit Maschinen</title><link>https://eigenbaukombinat.de/sicherheit-im-umgang-mit-maschinen/</link><pubDate>Wed, 09 Jan 2013 23:30:01 +0000</pubDate><guid>https://eigenbaukombinat.de/sicherheit-im-umgang-mit-maschinen/</guid><description>&lt;pre>&lt;code> * [&amp;quot;Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten&amp;quot; der ](https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)[&amp;quot;BG Holz und Metall&amp;quot;](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10) SEHR informatives und wichtiges Übersichtswerk über den korrekten Umgang mit diversen Holzbearbeitungsmaschinen. Pflichtlektüre, für alle die an Kappsäge, Abrichthobel und Co. arbeiten (wollen).
+ * [Dazugehörige Plakate der &amp;quot;BG Holz und Metall&amp;quot; zur Holzbearbeitung](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10)
+ * [Weitere Inhalte der Mediathek der ehemaligen HolzBG](https://www.bghm.de/arbeitsschuetzer/praxishilfen/unterweisungshilfen.html)
+&lt;/code>&lt;/pre></description></item><item><title>Laminat verlegen</title><link>https://eigenbaukombinat.de/laminat-verlegen/</link><pubDate>Wed, 02 Jan 2013 00:14:40 +0000</pubDate><guid>https://eigenbaukombinat.de/laminat-verlegen/</guid><description>&lt;p>Im Rahmen des Verlegens des Fußbodens in zwei Räumen hab ich geschaut, welche Beiträge es zum Thema gibt. Die beiden folgenden Links fand ich sehr hilfreich:&lt;/p>
+&lt;pre>&lt;code> * https://heimwerker-netzwerk.de/laminat-verlegen/
+ * https://www.doit-tv.de/renovieren_waende_und_boeden/bodenbelaege/laminat_selbst_verlegen_teil_1.html
+&lt;/code>&lt;/pre></description></item><item><title>Baumärkte in Halle und Umgebung</title><link>https://eigenbaukombinat.de/baumarkte-in-halle-und-umgebung/</link><pubDate>Wed, 02 Jan 2013 00:11:14 +0000</pubDate><guid>https://eigenbaukombinat.de/baumarkte-in-halle-und-umgebung/</guid><description>&lt;p>&lt;strong>Hela Baumarkt&lt;/strong> &lt;a href="https://hela.de/marketsites/start/?markt=82&amp;amp;start=1&amp;amp;confirm=1">Webseite
+&lt;/a>&lt;a href="https://maps.google.de/maps?q=Zeppelinstra%C3%9Fe&amp;#43;3,&amp;#43;06130&amp;#43;Halle&amp;amp;hl=de&amp;amp;ie=UTF8&amp;amp;sll=51.4566,11.99154&amp;amp;sspn=0.008303,0.01929&amp;amp;hnear=Zeppelinstra%C3%9Fe,&amp;#43;06130&amp;#43;Halle&amp;#43;%28Saale%29,&amp;#43;Sachsen-Anhalt&amp;amp;t=m&amp;amp;z=16">MAPS: Zeppelinstraße 3, 06130 Halle &lt;/a>
+Telefon: 0345/13380
+Telefax: 0345-1338200
+E-Mail: &lt;a href="mailto:Infozentrum-Halle@hela.de">Infozentrum-Halle@hela.de&lt;/a>
+Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr&lt;/p>
+&lt;p>&lt;strong>Hellweg Baumarkt&lt;/strong> &lt;a href="https://www.hellweg.de/index.php?cl=start&amp;amp;fnc=smsetStore&amp;amp;store=771792">Webseite
+&lt;/a>&lt;a href="https://maps.google.de/maps?q=Industriestr.&amp;#43;1,&amp;#43;06132&amp;#43;Halle&amp;amp;hl=de&amp;amp;ie=UTF8&amp;amp;sll=51.989833,11.873913&amp;amp;sspn=4.201422,9.876709&amp;amp;hnear=Industriestra%C3%9Fe&amp;#43;1,&amp;#43;06132&amp;#43;Halle&amp;#43;%28Saale%29,&amp;#43;Sachsen-Anhalt&amp;amp;t=m&amp;amp;z=16">MAPS: Industriestr. 1, 06132 Halle&lt;/a>
+Tel.: 0345 /779190
+Fax: 0345 /7791930
+Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr&lt;/p>
+&lt;p>&lt;strong>BAUHAUS Baumarkt Merseburg&lt;/strong> &lt;a href="https://www.bauhaus.info/fachcentren/standortliste/nocache.html?showUid=20">Webseite
+&lt;/a>&lt;a href="https://maps.google.de/maps?q=Kollenbeyer&amp;#43;Weg&amp;#43;2,&amp;#43;06217&amp;#43;Merseburg-Meuschau&amp;amp;hl=de&amp;amp;sll=51.175806,10.454119&amp;amp;sspn=8.556862,19.753418&amp;amp;hnear=Kollenbeyer&amp;#43;Weg&amp;#43;2,&amp;#43;06217&amp;#43;Merseburg&amp;#43;%28Saale%29,&amp;#43;Sachsen-Anhalt&amp;amp;t=m&amp;amp;z=16">MAPS: Kollenbeyer Weg 2, 06217 Merseburg-Meuschau&lt;/a>
+Telefon: 03461 /3314 0
+Fax: 03461 /3314 13
+E-Mail: &lt;a href="mailto:Info.NL405@bauhaus-ag.de">Info.NL405@bauhaus-ag.de&lt;/a>
+Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr&lt;/p>
+&lt;p>&lt;strong>Toom Baumarkt Merseburg&lt;/strong> &lt;a href="https://www.bauhaus.info/fachcentren/standortliste/nocache.html?showUid=20">Webseite
+&lt;/a>&lt;a href="https://maps.google.de/maps?q=Querfurter&amp;#43;Stra%C3%9Fe&amp;#43;8,&amp;#43;06217&amp;#43;Merseburg&amp;amp;hl=de&amp;amp;ie=UTF8&amp;amp;sll=51.175806,10.454119&amp;amp;sspn=8.556862,19.753418&amp;amp;hnear=Querfurter&amp;#43;Stra%C3%9Fe&amp;#43;8,&amp;#43;06217&amp;#43;Merseburg&amp;#43;%28Saale%29,&amp;#43;Sachsen-Anhalt&amp;amp;t=m&amp;amp;z=16">MAPS: Querfurter Straße 8, 06217 Merseburg&lt;/a>
+Tel: 03461/289 51-0
+Fax: 03461/289 51-10
+Öffnungszeiten Mo. – Sa.: 8 – 20 Uhr, Fr. 8-22 Uhr&lt;/p></description></item><item><title>Raumakustik und Digitale Raumkorrektur mit DRC</title><link>https://eigenbaukombinat.de/raumakustik-und-digitale-raumkorrektur-mit-drc/</link><pubDate>Fri, 21 Dec 2012 23:58:27 +0000</pubDate><guid>https://eigenbaukombinat.de/raumakustik-und-digitale-raumkorrektur-mit-drc/</guid><description>&lt;p>PoisonNuke hat nach jahrelanger Bastelei sein Wissen und seine Erfahrungen über und mit Raumakustik, insbesondere in Bezug auf ein DBA, sehr übersichtlich, verständlich und ausführlich niedergeschrieben: &lt;a href="https://www.poisonnuke.de/index.php?action=Raumakustik">https://www.poisonnuke.de/index.php?action=Raumakustik&lt;/a>&lt;/p>
+&lt;p>Die Raumkorrektursoftware DRC befindet sich hier: &lt;a href="https://drc-fir.sourceforge.net/doc/drc.html">https://drc-fir.sourceforge.net/doc/drc.html&lt;/a>&lt;/p></description></item><item><title>Lautsprecher Messsoftware MLS/FFT</title><link>https://eigenbaukombinat.de/lautsprecher-messsoftware-mlsfft/</link><pubDate>Wed, 12 Dec 2012 00:04:17 +0000</pubDate><guid>https://eigenbaukombinat.de/lautsprecher-messsoftware-mlsfft/</guid><description>&lt;p>Verschiedene Software zum Messen und Einstellen von Lautsprechern:&lt;/p>
+&lt;p>&lt;a href="https://forum.studiotips.com/viewtopic.php?t=151">https://forum.studiotips.com/viewtopic.php?t=151&lt;/a>&lt;/p></description></item><item><title>Tischbohrmaschine</title><link>https://eigenbaukombinat.de/tischbohrmaschine/</link><pubDate>Sun, 02 Dec 2012 00:36:45 +0000</pubDate><guid>https://eigenbaukombinat.de/tischbohrmaschine/</guid><description>&lt;p>Für die Tischbohrmaschine ist es sehr praktischen einen kleinen Bohrtisch mit verstellbaren Anschlägen selber zu bauen.
+Dazu vorerst hier ein paar Ideensammlungen.&lt;/p>
+&lt;pre>&lt;code> * VIDEO: Einen schönen Bohrtisch selber bauen: Drill Press Table - Part 1 [https://www.youtube.com/watch?v=U1GP_EgjA7M](https://www.youtube.com/watch?v=U1GP_EgjA7M)
+ * BILD: Ein fertig käufliches Modell bei axminster, Bilder davon gibt es [hier](https://www.axminster.co.uk/axminster-deluxe-pillar-drill-tables) und [hier](https://www.axminster.co.uk/axminster-pillar-drill-table).
+&lt;/code>&lt;/pre></description></item><item><title>Multifunktionstisch: Festool MFT/3</title><link>https://eigenbaukombinat.de/multifunktionstisch-festool-mft3/</link><pubDate>Sun, 02 Dec 2012 00:31:20 +0000</pubDate><guid>https://eigenbaukombinat.de/multifunktionstisch-festool-mft3/</guid><description>&lt;p>&lt;strong>Tipps und Tricks&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Um Kleinteile auf der Oberseite sortieren zu können, ohne dass diese in den 20mm Löchern verschwinden habe ich im Baumarkt eine 3mm Dünn-MDF oder Hartfaserplatte zuschneiden lassen (1102mm x 718mm), die ich bei Bedarf einfach auf die Oberseite auflege.&lt;/li>
+&lt;li>&lt;a href="https://thewoodtinkerer.blogspot.de/2013/02/festool-mft3-unterschrank-teil-6.html">Stauraum unter einem MFT mit einem Schrank optimal nutzen&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Handbücher, Informationen, Kataloge etc.</title><link>https://eigenbaukombinat.de/handbucher-informationen-kataloge-etc/</link><pubDate>Sun, 02 Dec 2012 00:20:20 +0000</pubDate><guid>https://eigenbaukombinat.de/handbucher-informationen-kataloge-etc/</guid><description>&lt;p>Kataloge:&lt;/p>
+&lt;pre>&lt;code> * [CMT Fräserkatalog 2012](https://www.cmtutensili.com/media/Files/143_13_english_catalogue_2012.pdf)
+&lt;/code>&lt;/pre>
+&lt;p>Magazine:&lt;/p>
+&lt;pre>&lt;code> * [Holzidee -- Das Magazin](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Holzidee-Heimwerken/Seiten/Holzidee-Magazin-Ausgaben.aspx) Leider eingestellt, hier kann man alle 13 Ausgaben als PDF herunterladen.
+&lt;/code>&lt;/pre>
+&lt;p>Baupläne, Tipps und Tricks:&lt;/p>
+&lt;pre>&lt;code> * [Festool: Baupläne Holz](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Bauplan-Selberbauen-Holz/Seiten/Bauplaene.aspx)
+ * [Festool: Grundlagen Möbelmaße](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Documents/03_tipps/Grundlagen_Moebelmasse.pdf)
+ * [Festool: Das Werkzeichen](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Documents/03_tipps/Werkzeichen.pdf)
+ * [Festool: Übersicht Werkstatt-Tipps](https://www.festool.de/Aktionen/Festool-fuer-Heimwerker/Heimwerker-Tipps-Tricks/Seiten/Tipps-und-Tricks.aspx)
+&lt;/code>&lt;/pre>
+&lt;p>Generelle Informationen:&lt;/p>
+&lt;pre>&lt;code> * [&amp;quot;Holzbearbeitungsmaschinen: Handhabung und sicheres Arbeiten&amp;quot; der ](https://www.bghm.de/uploads/tx_ttproducts/datasheet/BG_96.18_01.pdf)[&amp;quot;BG Holz und Metall&amp;quot;](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10)
+ * [Plakate der &amp;quot;BG Holz und Metall&amp;quot; zur Holzbearbeitung](https://www.bghm.de/bghm/online-shop/artikeluebersicht/460eb9fe7cd1dd8d5412f022f511eb1e.html?tt_products%5Bcat%5D=10)
+ * [Inhalte der Mediathek der ehemaligen HolzBG](https://www.bghm.de/arbeitsschuetzer/praxishilfen/unterweisungshilfen.html)
+ * [Verarbeitungsrichtlinien Trockenbau - Anleitung für das Fachhandwerk](https://www.rigips.de/downloads_verarbeitungsrichtlinien.asp)
+&lt;/code>&lt;/pre>
+&lt;p>Informationen zu Maschinen:&lt;/p></description></item><item><title>Schleifen mit Schleifsteinen</title><link>https://eigenbaukombinat.de/schleifen-mit-schleifsteinen/</link><pubDate>Fri, 16 Nov 2012 15:59:49 +0000</pubDate><guid>https://eigenbaukombinat.de/schleifen-mit-schleifsteinen/</guid><description>&lt;p>Jeder kennt das Problem: Messer, die man oft benutzt hat, werden stumpf.&lt;/p>
+&lt;p>Wir haben daher zwei Schleifsteine aus Japan angeschafft. Zunächst muss man sie Wasser aufsaugen lassen, um das Messer gleichmäßig schleifen zu können. Beide Schleifsteine haben zwei Seiten mit unterschiedlicher Körnung.&lt;/p>
+&lt;p>&lt;a href="https://eigenbaukombinat.de/wp-content/uploads/2013/02/schleifen1.jpg">&lt;img src="https://eigenbaukombinat.de/wp-content/uploads/2013/02/schleifen1-300x225.jpg" alt="schleifen1">
+&lt;/a>&lt;/p>
+&lt;p>Zum Schleifen zieht man die Messer langsam über die nassen Schleifsteine. Man sieht das abgeschliffene Metall in Form des schwarzen Staubes, der sich auf dem Schleifstein niederlässt (aber ganz einfach durch Abwaschen wieder beseitigt werden kann).&lt;/p></description></item></channel></rss>
